@@ -1,0 +1,162 @@
+﻿
+<!-- ======================================================================
+ Copyright (C) 2008-2009 PROGRAMMATION IUT CLERMONT
+ 
+
+ Document : Vue du menu
+ Author : Julien Marcon et Matthias Gaydu
+ Creation date: 2017-08-20
+
+======================================================================== !-->
+
+<Window x:Class="RiotView.app.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+         xmlns:searchbox = "using:XAML_SearchBox"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiotView.app"
+        xmlns:converter="clr-namespace:RiotView.app.Converter"
+        mc:Ignorable="d"
+        Title="                                                                  Menu" Height="500" Width="500"
+         >
+    
+    <Window.Resources>
+        <converter:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <ControlTemplate x:Key="GlassButton" TargetType="{x:Type Button}">
+            <ControlTemplate.Resources>
+                <Storyboard x:Key="Timeline1">
+                    <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="glow" Storyboard.TargetProperty="(UIElement.Opacity)">
+                        <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="1"/>
+                    </DoubleAnimationUsingKeyFrames>
+                </Storyboard>
+                <Storyboard x:Key="Timeline2">
+                    <DoubleAnimationUsingKeyFrames BeginTime="00:00:00" Storyboard.TargetName="glow" Storyboard.TargetProperty="(UIElement.Opacity)">
+                        <SplineDoubleKeyFrame KeyTime="00:00:00.3000000" Value="0"/>
+                    </DoubleAnimationUsingKeyFrames>
+                </Storyboard>
+            </ControlTemplate.Resources>
+            <Border BorderBrush="#FFFFFFFF" BorderThickness="1,1,1,1" CornerRadius="4,4,4,4">
+                <Border x:Name="border" Background="#7F000000" BorderBrush="#FF000000" BorderThickness="1,1,1,1" CornerRadius="4,4,4,4">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="0.507*"/>
+                            <RowDefinition Height="0.493*"/>
+                        </Grid.RowDefinitions>
+                        <Border Opacity="0" HorizontalAlignment="Stretch" x:Name="glow" Width="Auto" Grid.RowSpan="2" CornerRadius="4,4,4,4">
+                            <Border.Background>
+                                <RadialGradientBrush>
+                                    <RadialGradientBrush.RelativeTransform>
+                                        <TransformGroup>
+                                            <ScaleTransform ScaleX="1.702" ScaleY="2.243"/>
+                                            <SkewTransform AngleX="0" AngleY="0"/>
+                                            <RotateTransform Angle="0"/>
+                                            <TranslateTransform X="-0.368" Y="-0.152"/>
+                                        </TransformGroup>
+                                    </RadialGradientBrush.RelativeTransform>
+                                    <GradientStop Color="#B28DBDFF" Offset="0"/>
+                                    <GradientStop Color="#008DBDFF" Offset="1"/>
+                                </RadialGradientBrush>
+                            </Border.Background>
+                        </Border>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Width="Auto" Grid.RowSpan="2"/>
+                        <Border HorizontalAlignment="Stretch" Margin="0,0,0,0" x:Name="shine" Width="Auto" CornerRadius="4,4,0,0">
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0.494,0.889" StartPoint="0.494,0.028">
+                                    <GradientStop Color="#99FFFFFF" Offset="0"/>
+                                    <GradientStop Color="#33FFFFFF" Offset="1"/>
+                                </LinearGradientBrush>
+                            </Border.Background>
+                        </Border>
+                    </Grid>
+                </Border>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Opacity" TargetName="shine" Value="0.4"/>
+                    <Setter Property="Background" TargetName="border" Value="#CC000000"/>
+                    <Setter Property="Visibility" TargetName="glow" Value="Hidden"/>
+                </Trigger>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Trigger.EnterActions>
+                        <BeginStoryboard Storyboard="{StaticResource Timeline1}"/>
+                    </Trigger.EnterActions>
+                    <Trigger.ExitActions>
+                        <BeginStoryboard x:Name="Timeline2_BeginStoryboard" Storyboard="{StaticResource Timeline2}"/>
+                    </Trigger.ExitActions>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.486,0.986" StartPoint="0.486,0">
+                <GradientStop Color="#FF000000" Offset="0"/>
+                <GradientStop Color="#FFD0D0D0" Offset="1"/>
+                <GradientStop Color="#FF8D8D8D" Offset="0.558"/>
+                <GradientStop Color="#FF8D8D8D" Offset="0.76"/>
+                <GradientStop Color="#FF747474" Offset="0.615"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            
+            <RowDefinition />
+            <RowDefinition  Height="200"/>
+            <RowDefinition />
+            <RowDefinition />
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            
+            <ColumnDefinition Width="125" />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Border Margin="10" BorderBrush="DarkGray" BorderThickness="1" CornerRadius="4"
+        Background="{x:Static SystemColors.ControlLightLightBrush}" Height="200" Width="300"  Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" >
+            <Border.Effect>
+                <DropShadowEffect/>
+            </Border.Effect>
+            <Button BorderThickness="5"   Command="{Binding CommandeDetail}" Height="200" Width="300"  Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" VerticalAlignment="Center">
+            <Button.Template>
+
+                <ControlTemplate>
+                    
+                    <Image  Source="{Binding DisplayedImage}" HorizontalAlignment="Center"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        </Border>
+        <Button Visibility="{Binding IsVisible, Converter={StaticResource BooleanToVisibilityConverter}}"  xml:space="preserve" Command="{Binding CommandeAjouter}" Height="50" Width="70" Grid.Column="4" Grid.Row="2" Foreground="#FFFFFFFF" Template="{DynamicResource GlassButton}" >Ajouter</Button>
+        <Button Visibility="{Binding IsVisible, Converter={StaticResource BooleanToVisibilityConverter}}"  xml:space="preserve" Command="{Binding CommandeEdition}" Height="50" Width="70" Grid.Column="0" Grid.Row="2" Foreground="#FFFFFFFF" Template="{DynamicResource GlassButton}" >Edition</Button>
+        <TextBlock IsEnabled="False" Text="Mode édition" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" />
+        <Button Grid.Column="1" Grid.Row="0" Width="50" Height="50" Visibility="Hidden">On</Button>
+
+        <TextBlock Grid.Column="2" Grid.Row="1" Width="250" Height="50"  Grid.ColumnSpan="3" Text="{Binding NomChampion}" Margin="21,8,21,0" VerticalAlignment="Center" FontSize="36" FontFamily="Harlow Solid Italic"/>
+        <Button Foreground="#FFFFFFFF" Template="{DynamicResource GlassButton}" Name="Edition" Grid.Column="4" Grid.Row="1" Width="70" Height="50" FontSize="8"  Command="{Binding CommandeModifiezUtilisateur}" Visibility="Visible">Edition compte</Button>
+        <Button Background="#FF6AD81E" Command="{Binding CommandePrecedant}" Height="100" Width="100"  Grid.Column="1" Grid.Row="3" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" VerticalAlignment="Center">
+            <Button.Template>
+                <ControlTemplate>
+                    <Image  Source="{Binding ImageGauche}" Height="50" HorizontalAlignment="Center"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Command="{Binding CommandeSuivant}" Height="100" Width="100"  Grid.Column="3" Grid.Row="3" VerticalContentAlignment="Top" HorizontalContentAlignment="Left" VerticalAlignment="Center">
+            <Button.Template>
+                <ControlTemplate>
+                    <Image Source="{Binding ImageDroite}" Height="50" HorizontalAlignment="Center"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Foreground="#FFFFFFFF" Template="{DynamicResource GlassButton}" Command="{Binding CommandeRechercher}" Grid.Column="1" Grid.Row="4" Width="75" Height="50" Background="#FFE01212">Rechercher</Button>
+        <TextBox  Text="{Binding Rechercher}"  Width="100"  Height="30" Grid.Row="4" Grid.Column="2" FontSize="10"   Background="#FFB4A5A5"/>
+        
+       
+
+    </Grid>
+</Window>

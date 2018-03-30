@@ -1,0 +1,18 @@
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Service.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Utilisateurs.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Release\Utilisateurs.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Release\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Release\Service.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Service.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Service.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Champion.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Utilisateurs.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Champion.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Release\Utilisateurs.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Release\Service.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Release\Service.pdb

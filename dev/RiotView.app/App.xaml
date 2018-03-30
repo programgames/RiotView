@@ -1,0 +1,10 @@
+﻿<Application x:Class="RiotView.app.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RiotView.app"
+             StartupUri="3D.xaml">
+    <Application.Resources>
+
+
+    </Application.Resources>
+</Application>

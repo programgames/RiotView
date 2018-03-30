@@ -1,0 +1,12 @@
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Services.Tests.exe.config
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Services.Tests.exe
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Services.Tests.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Utilisateurs.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Service.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\bin\Release\Utilisateurs.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\obj\Release\Services.Tests.exe
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\obj\Release\Services.Tests.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Services.Tests\obj\Release\Services.Tests.csprojResolveAssemblyReference.cache

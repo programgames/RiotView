@@ -1,0 +1,73 @@
+-List
+-tableaux
+-Dictionnary = set
+-Array
+
+
+-observable collection
+collection dans laquele on peut ajouter des objets
+a la difference des autres elle peut etre "observe",
+
+binding :INOTIFYPROPERTYCHANGE : permet de dire au moteur des evenement les changements effectues.
+List<Entite>
+
+ObservableCollection<Entite> implemente INOTIFYPROPERTYCHANGE, du coup si on fait un add , le moteur est informe , du coup on a pas besoin de touche a une vue lorsque qu'on ajoute un element a cette collection.
+
+
+faire une classe en c# .net
+
+class namespace.class
+
+class Model.entite
+
+oublic abstract class Entite{
+public string nom;
+public string Nom{get;set;}
+}
+implementation du get et set automatique
+
+heritage :
+public class fille : maman
+pareil pour implementer une interface
+on ne peut pas heriter deux classes en meme temps.
+
+diff struct et class
+var b2=b1;
+si c'est une class alors c'est un pointeur sur un pointeur alors qu'une struc est une copie de l'"objet".
+public class Boat<T>
+class generique
+on peut faire alors :
+new Boat<int> (useless)
+slack
+
+
+fenetre de base :
+View,Button,Textblock,Slider,Grid.
+auto :prendre auto que l'objet a besoin
+etoile: prendre la place dispo divise  par le nb d'etoile
+
+stackpanel
+empile
+dockPanel
+Docker
+mvvm->modele de codage
+
+
+projet wpf : il contient
+une vue   View.xaml
+avec son code VIew.xaml.cs
+
+un ViewModel.cs (lien entre la vue et le model, c'est une classe) elle implemente INOTIFYPROPERTYCHANGE
+elle s'occuppe de la logique de l'ecran
+Model.cs   Entite
+Command.cs il contient le code de la commande (definition de la fonction)
+
+en terme de responsabilite :
+la vue : affiches les elements graphiques
+le code de la vue est dans View.xaml.cs
+
+lorsque qu'on clique sur un bouton c'est "raise" dans le ViewModel.
+il y a une diff entre
+onlick = "onlick" et
+command = "MaCommande"
+

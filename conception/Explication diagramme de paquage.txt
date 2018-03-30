@@ -1,0 +1,3 @@
+Ce diagramme de paquage est ultra simple il consiste a mettre dans un paquage toutes les
+classes correspondant aux utilisateurs et dans un autres paquages toutes les classes
+correspondant aux champion et sont environnement.

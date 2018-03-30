@@ -1,0 +1,15 @@
+Description : 
+
+L'application se lance sur un ecran de connexion ou l'utilisateur doit rentrer ses identifiants.
+Il a la possiblité d'ouvrir une petite fenetre d'information.
+Si l'utilisateur ne possede pas de compte utilisateur, il doit se créer un compte à l'aide du
+bouton d'inscription qui redigire vers une nouvelle fenetre.
+Quand l'utilisateur parvient a se connecter, il arrive sur le menu principale.
+Qui, lui permet de visualiser un carousel , avec le nom du champion.
+Il peut de meme modifier le son de la musique de fond, modifier les informations de son compte dans une nouvelle fenetre.
+recharcher un champion dans la carousel a l'aide de son nom.
+Il peut aussi ouvrir une fenetre permettant d'ajouter un nouveau champion a la collections( si il est administrateur)
+En cliquant sur l'image d'un champion dans le menu , il accede a une page permettant de visualier plusieurs 
+informations a propos du champions en naviguant au travers des onglets.
+Si l'utilisateur possede le role d'administrateur il peut alors supprimer le champion de la liste.
+

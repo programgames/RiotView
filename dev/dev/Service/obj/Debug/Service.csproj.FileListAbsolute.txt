@@ -1,0 +1,29 @@
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Service.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Service.pdb
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Utilisateurs.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\bin\Debug\Utilisateurs.pdb
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\obj\Debug\Service.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Service\obj\Debug\Service.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Service.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Service.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Utilisateurs.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\bin\Debug\Utilisateurs.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Debug\Service.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Service\obj\Debug\Service.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Service.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Service.dll.CodeAnalysisLog.xml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Service.dll.lastcodeanalysissucceeded
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Utilisateurs.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\bin\Debug\Utilisateurs.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Debug\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Service\obj\Debug\Service.pdb

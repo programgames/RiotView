@@ -1,0 +1,76 @@
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.exe.config
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.exe
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\DBCon.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Service.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Utilisateurs.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Service.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\bin\Debug\Utilisateurs.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.csprojResolveAssemblyReference.cache
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\DetailChampion.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\DetailChampionSansModif.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\EcranConnexion.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Info.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Inscription.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Menu.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Creation.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\ModifiezUtilisateur.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\3D.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\App.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app_MarkupCompile.cache
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app_MarkupCompile.lref
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\DetailChampion.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\DetailChampionSansModif.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\EcranConnexion.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Info.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Inscription.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Menu.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\Creation.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\ModifiezUtilisateur.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\3D.baml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.g.resources
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.Properties.Resources.resources
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.csproj.GenerateResource.Cache
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.exe
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\DetailChampion.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\DetailChampionSansModif.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\EcranConnexion.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Info.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Inscription.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Menu.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Creation.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\ModifiezUtilisateur.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\3D.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\App.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app_MarkupCompile.cache
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app_MarkupCompile.lref
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.exe
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.exe.config
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.exe
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\RiotView.app.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\DBCon.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Service.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Utilisateurs.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Service.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\bin\Debug\Utilisateurs.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\DetailChampion.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\DetailChampionSansModif.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\EcranConnexion.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Info.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Inscription.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Menu.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\Creation.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\ModifiezUtilisateur.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\3D.baml
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.g.resources
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.Properties.Resources.resources
+C:\Users\matthias\Desktop\git\ritoview\dev\RiotView.app\obj\Debug\RiotView.app.csproj.GenerateResource.Cache

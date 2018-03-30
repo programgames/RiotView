@@ -1,0 +1,26 @@
+On peut deux zonne bien separer dans le diagramme uml:
+-Dans une premiére partie On peut voir 1 classe :
+	-Une classe utilisateurs avec un pseudo, mdp ,date , sexe , et admin
+	Chaque utilisateurs peut modifier ces informations personnels avec la methode
+	ModifiersInformation.
+	L'utilisateurs est celui qui utilise l'application.
+-Dans une deuxiéme partie on peut voir 2 classe et une enumeration:
+	Celle ci sont simple a expliquer, un champion sur League of legends comporte pas 
+	mal de composant , il comporte :
+		-Un nom,
+		-Une histoire un "lore",
+		-Une video de presentation,
+		-Une image,
+		-et 5 sorts avec a chacun ces propriétés.
+	Chacun des sorts sont catégoriser dans des types correspondant a des touches du
+	claviers sauf 1 qui est un passif(c'est à dire pas activable) et ils 
+	Pour modeliser cela on a fais une classe champion avec en attributs: nom,lore,
+	Image (juste le titre de l'image) , Video (juste le titre de la video) et une 
+	liste des sorts qui sont situé dont une autre classe.
+	La classe sort est composé des attributs suivant :
+	un nom, une description , une image(juste le titre) et un typeSpell qui est une
+	enumeration.
+	TypeSpell est compose de 5 truc : a,z,e,r,passif
+
+	
+

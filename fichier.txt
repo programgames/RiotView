@@ -1,0 +1,3 @@
+9 oral
+10 rapport
+(analyse solution : mockup, etude uml(use case),diagramme d'activite de use case, diagramme sequence, diagramme classe)

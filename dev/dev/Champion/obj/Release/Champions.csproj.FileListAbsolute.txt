@@ -1,0 +1,4 @@
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Release\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Release\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\obj\Release\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\obj\Release\Champion.pdb

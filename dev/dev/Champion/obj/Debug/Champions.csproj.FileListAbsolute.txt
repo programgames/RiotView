@@ -1,0 +1,16 @@
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champions.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champion.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champion.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Champion\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Champion\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\git\ritoview\dev\Champion\obj\Debug\Champions.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\git\ritoview\dev\Champion\obj\Debug\Champion.dll
+C:\Users\matthias\Desktop\git\ritoview\dev\Champion\obj\Debug\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Debug\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Debug\Champion.pdb
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Debug\Champion.dll.CodeAnalysisLog.xml
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\bin\Debug\Champion.dll.lastcodeanalysissucceeded
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\obj\Debug\Champion.dll
+C:\Users\julien\Desktop\Nouveau dossier (2)\ritoview\dev\Champion\obj\Debug\Champion.pdb

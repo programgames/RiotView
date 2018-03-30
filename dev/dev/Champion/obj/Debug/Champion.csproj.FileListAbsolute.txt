@@ -1,0 +1,5 @@
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\bin\Debug\Champion.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\bin\Debug\Champion.pdb
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champion.csprojResolveAssemblyReference.cache
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champion.dll
+C:\Users\matthias\Desktop\projet Rito Vieew git\ritoview\dev\Champion\obj\Debug\Champion.pdb

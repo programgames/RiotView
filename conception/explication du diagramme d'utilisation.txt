@@ -1,0 +1,20 @@
+On a decider dans le diagramme des cas d'utilisations de mettre tout les etats que l'on
+peut voir dans le stori board.
+On a du coup choisi de mettre les etats :
+	.de l'utilisateur:
+		->Se connecter
+		->S'inscrire
+		->afficher champion
+		->afficher sort champion
+		->afficher histoire champion
+		->afficher la video de presentation du champion
+		->regler volume
+		->modifier information compte utilisateur
+		->rechercher champion;
+	.de l'administrateur qui herite de l'utilisateur et qui a en
+	plus :
+		->ajouter champion
+		->modifier champion
+		->supprimer champion
+
+

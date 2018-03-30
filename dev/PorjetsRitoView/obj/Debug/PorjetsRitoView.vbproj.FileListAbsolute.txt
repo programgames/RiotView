@@ -1,0 +1,16 @@
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\bin\Debug\PorjetsRitoView.exe.config
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\bin\Debug\PorjetsRitoView.exe
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\bin\Debug\PorjetsRitoView.pdb
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\bin\Debug\PorjetsRitoView.xml
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.vbprojResolveAssemblyReference.cache
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\MainWindow.g.vb
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\Application.g.vb
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView_MarkupCompile.cache
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView_MarkupCompile.lref
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\MainWindow.baml
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.g.resources
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.Resources.resources
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.vbproj.GenerateResource.Cache
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.exe
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.xml
+C:\Users\magaydu\Documents\projet\PorjetsRitoView\PorjetsRitoView\obj\Debug\PorjetsRitoView.pdb

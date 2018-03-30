@@ -1,0 +1,15 @@
+Description  de notre projet :
+
+-Notre projet consiste a déveloper une liste des champions de League of Legends ainsi que son "lore", une video associe, La listes des sorts...
+La collections des champions sera un Dictionnaire.
+On y ajoutera un systeme de gestion d'utilisateur au demarrage de l'application permettant de modifier les contenu de dictionnaire si il a les droits.
+
+Au demarrage de l'application on sera inviter a se connecter ou alors s'inscrire et sera obligé de se connecté pour rentrer dans l'application.
+
+Il y aura une extension de l'utilisateurs qui sera un administrateur qui pourra ajouter , modifier ou supprimer des champions car riot (l'entreprise
+qui s'occupe du jeux) fait souvent des mis a jour (tous les 15 jours environ) et cette administrateur gereras cela.
+
+
+
+
+

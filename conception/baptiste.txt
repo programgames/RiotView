@@ -1,0 +1,10 @@
+baptiste.urbain@gmail.com
+->envoyer par mail 
+->annalyse de la solution
+	->mockup
+	->etude uml
+	->diagramme d'activite
+	->diagramme de sequence
+	->diagramme de classe
+	->etude technique
+		->diagramme d'architecture

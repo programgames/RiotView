@@ -1,0 +1,17 @@
+/* private static Dictionary<string, Champion> listeChamp = new Dictionary<string, Champion>();
+        public static Dictionary<string, Champion> listeChamp
+        {
+            get
+            {
+                return listeChamp;
+            }
+        }
+        private static Dictionary<string, Utilisateur> listeUtilisateur = new Dictionary<string, Utilisateur>();
+       
+        public static Dictionary<string, Utilisateur> listeUtilisateur
+        {
+            get
+            {
+                return listeUtilisateur;
+            }
+        }*/

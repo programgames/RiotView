@@ -1,0 +1,121 @@
+﻿<!-- ======================================================================
+ Copyright (C) 2008-2009 PROGRAMMATION IUT CLERMONT
+ 
+
+ Document : Vue de l'ajout des champions
+ Author : Julien Marcon et Matthias Gaydu
+ Creation date: 2017-08-20
+
+======================================================================== !-->
+    <Window x:Class="RiotView.app.Creation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RiotView.app"
+        mc:Ignorable="d"
+        Title="Creation champion"  Background="#FFD18C48" Height="600" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+
+            <RowDefinition />
+            <RowDefinition  Height="200"/>
+            <RowDefinition />
+
+
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+
+            <ColumnDefinition Width="125" />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBox  Text="{Binding NomChampion}" Grid.Column="0" Grid.Row="0" Width="125" Height="35" FontFamily="Imprint MT Shadow" Background="#FFCEE878" AutomationProperties.HelpText="Entrer le nom du champion" >
+            <TextBox.Effect>
+                <DropShadowEffect/>
+            </TextBox.Effect>
+        </TextBox>
+        <Button Command="{Binding BoutonImage}" Grid.Column="1" Grid.Row="0"   Content="Ouvrir image"
+                 Height="30" Width="100"
+                 HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FFFFE800" 
+                 >
+            <Button.Effect>
+                <DropShadowEffect RenderingBias="Quality" ShadowDepth="9"/>
+            </Button.Effect>
+        </Button>
+        <Button  Command="{Binding BouttonVideo}" Width="100" Grid.Row="0" Name="OuvrirVideo" Grid.Column="2" Content="Ouvrir Video" Height="30px" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Center" Background="#FFFFE800"/>
+        <TextBox   Text="{Binding Histoire}" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="4"  Name="Histoire"/>
+
+        <TabControl Grid.Row="2" Grid.ColumnSpan="4" Background="#FF978F8F">
+
+            <TabItem Header="A">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="24*"/>
+                        <ColumnDefinition Width="269*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBox   Text="{Binding SortA}" Name="A" Grid.ColumnSpan="2"/>
+
+                    <Button Command="{Binding BoutonImageA}"  Grid.Row="1"  Content="Ouvrir Image A" Height="30" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Margin="195,28,243,28" />
+
+                </Grid>
+
+
+            </TabItem>
+            <TabItem Header="Z" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBox   Text="{Binding SortZ}" Name="Z"/>
+
+                    <Button Command="{Binding BoutonImageZ}"  Grid.Row="1"  Content="Ouvrir Image Z" Height="30" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="E" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <TextBox   Text="{Binding SortE}" Name="E"/>
+
+                    <Button Command="{Binding BoutonImageE}"   Width="100
+"  Grid.Row="1"  Content="Ouvrir Image E" Height="30"    HorizontalAlignment="Center" VerticalAlignment="Center" Background="#FFEAE696" />
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="R" >
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="291*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    
+                    <TextBox   Text="{Binding SortR}" Name="R" Grid.ColumnSpan="2"/>
+                   
+                    <Button Command="{Binding BoutonImageR}"  Grid.Row="1"  Content="Ouvrir Image R " Height="30" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Margin="239,28,243,28" />
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button Command="{Binding BouttonSauvegarder}" Height="50" Width="100"  Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="4" BorderBrush="#FFE67575">Sauvegarder</Button>
+    </Grid>
+</Window>
